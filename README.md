@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardozy7)](https://github.com/Ricardozy7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardozy7&hide=html,css&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Ricardozy7/github-readme-stats)
