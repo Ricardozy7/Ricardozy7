@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardozy7&hide=html,css&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)](https://github.com/Ricardozy7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardozy7&hide=html,css&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_progress=true)](https://github.com/Ricardozy7)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ricardozy7&locale=pt_BR)](https://github.com/Ricardozy7)
 <div style="display: inline_block">
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
@@ -6,6 +7,8 @@
   <img width="40" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="40" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img width="40" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
 
 ##
